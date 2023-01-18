@@ -1,0 +1,139 @@
+span{
+  width: 100%;
+  display: flex;
+  margin-left: 0%;
+}
+h1{
+  font-family: Georgia, serif;
+}
+.main{
+  text-align: center;
+}
+.navbar{
+  background-color: black;
+  color: white;
+  height: 100px;
+
+}
+.navbar .nav{
+  margin-right: 1%;
+}
+.navbar h1{
+  padding-left: 1%;
+}
+.navbar li a{
+  display: flex;
+  padding-right: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+.navbar li a:hover{
+  color: rgb(204, 198, 198);
+  transition: 0.3s ease-in-out;
+}
+.data{
+  margin-top: 40px;
+}
+table{
+  margin-left: 36%;
+  margin-right: 40%;
+}
+
+table tr{
+  height: 80px;
+  padding-bottom: 20px;
+}
+
+.btnn{
+  padding-top: 20px;
+}
+
+.form-container{
+  border-radius: 20px;
+  color: white;
+  background-color: black;
+  padding: 60px;
+  height: 500px;
+  text-align: center;
+  width: 400px;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+.form-container h1{
+  padding-bottom: 50px;
+  font-size: 50px;
+}
+
+.sub{
+  padding-top: 10%;
+}
+
+.reg{
+  font-size: 13px;
+  margin-top: 40%;
+  display: flex;
+}
+.reg1{
+  font-size: 13px;
+  display: flex;
+  margin-top: 27%;
+}
+.reg1 a{
+  color: aqua;
+  text-decoration: none;
+}
+.reg1 a:hover{
+  color: aquamarine;
+  text-decoration: dashed;
+}
+.reg a{
+  color: aqua;
+  text-decoration: none;
+}
+.reg a:hover{
+  color: aquamarine;
+  text-decoration: dashed;
+}
+
+.datadiv{
+  height: 500px;
+}
+.datadiv span{
+  margin-top: 10%;
+  margin-left: 15%;
+  width: 1000px;
+}
+.personal-div{
+  width: 400px;
+  margin-right: 20%;
+}
+.professional-div{
+  width: 400px;
+}
+.personal-div h1{
+  margin-left: 25%;
+  font-size: 25px;
+  text-align: center;
+}
+.professional-div h1{
+  margin-left: 40%;
+  font-size: 25px;
+  text-align: center;
+}
+
+.form{
+  margin: 5%;
+}
+
+table td tr{
+  padding: 10%;
+}
+
+table{
+  width: 500px;
+}
+table td{
+  width: 500px;
+}
+
